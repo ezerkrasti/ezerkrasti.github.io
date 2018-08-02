@@ -3639,20 +3639,12 @@
       position: relative;
     }
 
-    .post .content.location {
-      padding: 1em;
-    }
-
-    .post .content.availability {
-      padding: 1em;
-    }
-
-      .post .content:before {
-        content: '';
-        display: inline-block;
-        height: 100%;
-        vertical-align: middle;
-        margin-right: -0.25em;
+    .post .content:before {
+      content: '';
+      display: inline-block;
+      height: 100%;
+      vertical-align: middle;
+      margin-right: -0.25em;
       /* Adjusts for spacing */
     }
 
