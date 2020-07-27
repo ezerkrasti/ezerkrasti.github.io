@@ -1,5 +1,5 @@
 <!DOCTYPE HTML>
-<html>
+<html lang="lv">
   <head>
     <title>Ezerkrasti</title>
     <meta charset="utf-8" />
@@ -12,18 +12,18 @@
       <header id="header">
         <a href="index.html" class="logo">Ezerkrasti</a>
         <nav>
-          <a href="#menu">Saturs</a>
+          <a id="menuText" class="i18n" href="#menu">Saturs</a>
         </nav>
       </header>
 
     <!-- Nav -->
       <nav id="menu">
         <ul class="links">
-          <li><a href="index.html">Sākums</a></li>
-          <li><a href="#services" class="scrolly">Pakalpojumi</a></li>
-          <li><a href="#availability" class="scrolly">Pieejamība</a></li>
-          <li><a href="#contacts" class="scrolly">Kontakti</a></li>
-          <li><a href="#location" class="scrolly">Atrašanās vieta</a></li>
+          <li><a id="beginning" class="i18n" href="index.html">Sākums</a></li>
+          <li><a id="services" href="#services" class="scrolly i18n">Pakalpojumi</a></li>
+          <li><a id="availability" href="#availability" class="scrolly i18n">Pieejamība</a></li>
+          <li><a id="contacts" href="#contacts" class="scrolly i18n">Kontakti</a></li>
+          <li><a id="location" href="#location" class="scrolly i18n">Atrašanās vieta</a></li>
           <!-- <li><a href="#reservation" class="scrolly">Rezervēšana</a></li> -->
           <!-- <li><a href="policy.html">Noteikumi</a></li> -->
           <!-- <li><a href="generic.html">Generic</a></li> -->
@@ -36,7 +36,7 @@
         <div class="inner">
           <h1>Atpūta Vecpiebalgā, </br>Alauksta ezera krastā.</h1>
           <ul class="actions">
-            <li><a href="#contacts" class="button alt scrolly big">Rezervēt</a></li>
+            <li><a id="reserve" href="#contacts" class="button alt scrolly big i18n">Rezervēt</a></li>
           </ul>
         </div>
       </section>
@@ -95,7 +95,7 @@
         <div class="content">
           <div class="inner">
             <header>
-              <h2><a href="#contacts">Kontakti</a></h2>
+              <h2><a id="contact1" href="#contacts" class="i18n i18n_contacts">Kontakti</a></h2>
             </header>
             <p>
               Tel. <b>+37129366057</b></br>
@@ -201,6 +201,7 @@
       <script src="assets/js/skel.min.js"></script>
       <script src="assets/js/util.js"></script>
       <script src="assets/js/main.js"></script>
+      <script src="main.js"></script>
 
   </body>
 </html>
