@@ -24,6 +24,7 @@
           <li><a id="availability" href="#availability" class="scrolly i18n">Pieejamība</a></li>
           <li><a id="contacts" href="#contacts" class="scrolly i18n">Kontakti</a></li>
           <li><a id="location" href="#location" class="scrolly i18n">Atrašanās vieta</a></li>
+          <li><a id="language" href="#" class="i18n">Valoda: &#x1f1f7;&#x1f1fa; &#x1f1fa;&#x1f1f8;</a></li>
           <!-- <li><a href="#reservation" class="scrolly">Rezervēšana</a></li> -->
           <!-- <li><a href="policy.html">Noteikumi</a></li> -->
           <!-- <li><a href="generic.html">Generic</a></li> -->
@@ -34,7 +35,7 @@
     <!-- Banner -->
       <section id="banner">
         <div class="inner">
-          <h1>Atpūta Vecpiebalgā, </br>Alauksta ezera krastā.</h1>
+          <h1 id="siteHeaderId" class="i18n i18n_header">Atpūta Vecpiebalgā, </br>Alauksta ezera krastā.</h1>
           <ul class="actions">
             <li><a id="reserve" href="#contacts" class="button alt scrolly big i18n">Rezervēt</a></li>
           </ul>
@@ -49,13 +50,13 @@
         <div class="content">
           <div class="inner">
             <header>
-              <h2><a href="#services">Pakalpojumi</a></h2>
+              <h2><a id="servicesSectionA" class="i18n i18n_services" href="#services">Pakalpojumi</a></h2>
             </header>
-            <p>Mēs pedāvājam:</p>
+            <p id="weOffer" class="i18n">Mēs pedāvājam:</p>
             <ul>
-              <li>Pirtiņas īri ar nakšņošanas iespējām</li>
-              <li>Laivas nomu</li>
-              <li>Telts vietas ar skatu uz ezeru</li>
+              <li id="offer1" class="i18n">Pirtiņas īri ar nakšņošanas iespējām</li>
+              <li id="offer2" class="i18n">Laivas nomu</li>
+              <li id="offer3" class="i18n">Telts vietas ar skatu uz ezeru</li>
             </ul>
             <!-- <ul class="actions">
               <li><a href="generic.html" class="button alt">Read More</a></li>
@@ -76,9 +77,13 @@
         <div class="content">
           <div class="inner">
             <header>
-              <h2><a href="#availability">Pieejamība</a></h2>
+              <h2><a id="availabilitySectionA" class="i18n i18n_availability" href="#availability">Pieejamība</a></h2>
             </header>
-            <p>Lai noskaidrotu pirts, laivu un telts vietu pieejamību lūdzu <a href="#contacts" class="scrolly">sazinieties ar mums</a>.</p>
+            <div>
+              <p id="availabilityText" class="i18n">Lai noskaidrotu pirts, laivu un telts vietu pieejamību lūdzu </p>
+              <a id="availabilityLink" href="#contacts" class="scrolly i18n">sazinieties ar mums</a>
+              .
+            </div>
           </div>
           <div class="postnav">
             <a href="#services" class="scrolly prev"><span class="icon fa-chevron-up"></span></a>
@@ -98,7 +103,7 @@
               <h2><a id="contact1" href="#contacts" class="i18n i18n_contacts">Kontakti</a></h2>
             </header>
             <p>
-              Tel. <b>+37129366057</b></br>
+              ☏ <b>+37129366057</b></br>
               +37129264433</br>
               Email. <b>info@ezerkrasti.eu</b>
             </p>
@@ -172,7 +177,7 @@
         <div class="content location">
           <div class="inner">
             <header>
-              <h2><a href="#location">Atrašanās vieta</a></h2>
+              <h2><a id="locationSectionA" class="i18n i18n_location" href="#location">Atrašanās vieta</a></h2>
             </header>
             <p>GPS: 57.103299, 25.779503</p>
             <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7939.852072677805!2d25.77150498420989!3d57.102824676466575!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46e97eecde3969eb%3A0x42bdcef85db62b8d!2zNTfCsDA2JzEwLjIiTiAyNcKwNDYnNDkuMSJF!5e1!3m2!1sen!2slv!4v1531426516463" width="300" height="250" frameborder="0" style="border:0" allowfullscreen></iframe>

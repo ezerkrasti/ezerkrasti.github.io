@@ -6,6 +6,17 @@
   "availability": "Pieejamība",
   "contacts": "Kontakti",
   "location": "Atrašanās vieta",
+  "language": "Valoda: &#x1f1f7;&#x1f1fa; &#x1f1fa;&#x1f1f8;",
 
-  "reserve": "Rezervēt"
+  "reserve": "Rezervēt",
+
+  "header": "Atpūta Vecpiebalgā, </br>Alauksta ezera krastā.",
+
+  "weOffer": "Mēs piedāvājam:",
+  "offer1": "Pirtiņas īri ar nakšņošanas iespējām",
+  "offer2": "Laivas nomu",
+  "offer3": "Telts vietas ar skatu uz ezeru",
+
+  "availabilityText": "Lai noskaidrotu pirts, laivu un telts vietu pieejamību lūdzu ",
+  "availabilityLink": "sazinieties ar mums"
 }

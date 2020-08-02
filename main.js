@@ -1,5 +1,6 @@
+const validLanguages = ["lv", "ru", "en"];
+
 function language() {
-  const validLanguages = ["lv", "en", "ru"]
   var lang = ((new URL(location)).searchParams.get('language') || navigator.language).toLowerCase();
   if ( lang.length > 2 ) {
     lang = lang.split("-")[0];
@@ -10,9 +11,14 @@ function language() {
     return "en";
   }
 }
-console.log('Hello World!');
-console.log(language());
 
+function nextLanguage() {
+  var currentId = validLanguages.indexOf(language());
+  var next = validLanguages[(currentId + 1)] || validLanguages[0];
+  window.location.href = ("/?language=" + next);
+}
+
+// Translate all i18n class elements
 $.getJSON("i18n/" + language() + ".json", function(json) {
   var list = document.getElementsByClassName("i18n");
   for (let item of list) {
@@ -27,3 +33,7 @@ $.getJSON("i18n/" + language() + ".json", function(json) {
     }
   }
 });
+
+// Bind nextLanguage function to menue bar link
+var langButton = document.getElementById('language');
+langButton.onclick = nextLanguage;

@@ -4546,3 +4546,10 @@
       }
 
     }
+
+/* Custom */
+
+ p#availabilityText {
+  display: inline;
+  margin: 0 0 0em 0;
+}

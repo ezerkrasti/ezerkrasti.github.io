@@ -6,6 +6,17 @@
   "availability": "Availability",
   "contacts": "Contacts",
   "location": "Location",
+  "language": "Language: &#x1f1f1;&#x1f1fb; &#x1f1f7;&#x1f1fa;",
 
-  "reserve": "Reserve"
+  "reserve": "Reserve",
+
+  "header": "Vacation in Vecpiebalga, </br>on the shores of Lake Alauksts",
+
+  "weOffer": "We offer:",
+  "offer1": "Sauna with accommodation for rent",
+  "offer2": "Boat rental",
+  "offer3": "Tent sites overlooking the lake",
+
+  "availabilityText": "To find out the availability of sauna, boat and tent sites, please ",
+  "availabilityLink": "get in touch with us"
 }
