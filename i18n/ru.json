@@ -2,8 +2,9 @@
   "menuText": "Меню",
 
   "beginning": "Начало",
+  "place": "Место",
   "services": "Услуги",
-  "availability": "Доступность",
+  "price": "Цены",
   "contacts": "Контакты",
   "location": "Расположение",
   "language": "Язык: &#x1f1fa;&#x1f1f8; &#x1f1f1;&#x1f1fb;",
@@ -16,7 +17,18 @@
   "offer1": "Сауна в аренду с проживанием",
   "offer2": "Прокат лодок",
   "offer3": "Места для палаток с видом на озеро",
+  "offer4": "Места для палаток с видом на озеро",
+  "offer5": "Места для палаток с видом на озеро",
+  "offer6": "Места для палаток с видом на озеро",
 
-  "availabilityText": "Чтобы узнать доступность свободних мест ",
-  "availabilityLink": "свяжитесь с нами"
+  "nightlyPrices": "Rent of the house for a night:",
+  "pricesNightly1": "for 2persons - 60 Eur",
+  "pricesNightly2": "for 4persons - 100 Eur",
+  "pricesNightly3": "for 6persons - 115 Eur",
+  "weeklyPrices": "Rent of the house for a week:",
+  "pricesWeekly1": "for 2persons - 350 Eur",
+  "pricesWeekly2": "for 4 persons - 400 Eur",
+  "pricesWeekly3": "for 6 persons - 430 Eur",
+
+  "placeDescription": "Ezerkrasti are located on the shores of lake Alauksts, at the edge of woods, surrounded by calming presence of the wild nature, after little more than hour-long drive by car from Riga,. If you desire to spend your free time away from noise and haste of the city, at the calm and picturesque place, You are welcome to our comfortable vacation home. On the ground floor there is a terrace, fireplace room, sauna, shower, WC, TV, WiFi, kitchen, bedroom. On the second floor there is a bedroom, living room for up to 8 people with a beautiful view of the lake, a balcony, sofas, tables, WiFi,TV."
 }

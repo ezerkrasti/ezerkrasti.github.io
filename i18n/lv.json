@@ -2,8 +2,9 @@
   "menuText": "Saturs",
 
   "beginning": "Sākums",
+  "place": "Vieta",
   "services": "Pakalpojumi",
-  "availability": "Pieejamība",
+  "price": "Cenas",
   "contacts": "Kontakti",
   "location": "Atrašanās vieta",
   "language": "Valoda: &#x1f1f7;&#x1f1fa; &#x1f1fa;&#x1f1f8;",
@@ -12,11 +13,22 @@
 
   "header": "Atpūta Vecpiebalgā, </br>Alauksta ezera krastā.",
 
-  "weOffer": "Mēs piedāvājam:",
-  "offer1": "Pirtiņas īri ar nakšņošanas iespējām",
-  "offer2": "Laivas nomu",
-  "offer3": "Telts vietas ar skatu uz ezeru",
+  "weOffer": "Mēs jūs ielūdzam:",
+  "offer1": "izmantot pirti",
+  "offer2": "doties peldēties ezerā",
+  "offer3": "doties izbraucienā ar laivu",
+  "offer4": "doties makšķerēt",
+  "offer5": "pavadīt laiku pie ugunskura vai grila",
+  "offer6": "doties pastaigā dabā",
 
-  "availabilityText": "Lai noskaidrotu pirts, laivu un telts vietu pieejamību lūdzu ",
-  "availabilityLink": "sazinieties ar mums"
+  "nightlyPrices": "Pirtiņas īre uz nakti:",
+  "pricesNightly1": "2 personām - 60 Eur",
+  "pricesNightly2": "4 personām - 100 Eur",
+  "pricesNightly3": "6 personām - 115 Eur",
+  "weeklyPrices": "Pirtiņas īre uz nedēļu:",
+  "pricesWeekly1": "2 personām - 350 Eur",
+  "pricesWeekly2": "4 personām - 400 Eur",
+  "pricesWeekly3": "6 personām - 430 Eur",
+
+  "placeDescription": "Ezerkrasti atrodas Alauksta ezera krastā, meža nomalē, neskartas dabas mierinošās klātbūtnes apskāvienos un tikai nedaudz vairāk kā stundas brauciena attālumā no Rīgas."
 }
