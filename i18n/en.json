@@ -3,6 +3,7 @@
 
   "beginning": "Beginning",
   "place": "Place",
+  "pictures": "Pictures",
   "services": "Services",
   "price": "Prices",
   "contacts": "Contacts",
@@ -30,7 +31,9 @@
   "priceWeekly1": "for 2 persons - 350 EUR.",
   "priceWeekly2": "for 4 persons - 400 EUR.",
   "priceWeekly3": "for 6 persons - 450 EUR.",
-  "priceWeekly4": "for 6 persons - 500 EUR.",
+  "priceWeekly4": "for 8 persons - 500 EUR.",
 
-  "placeDescription": "Ezerkrasti are located on the shores of lake Alauksts with rich fish fauna, at the edge of woods, surrounded by calming presence of the wild nature, after little more than hour-long drive by car from Riga,. If you desire to spend your free time away from noise and haste of the city, at the calm and picturesque place, You ar welcome to our comfortable vacation home. On the ground floor there is a terrace, fireplace room, sauna, shower, WC, TV, WiFi, kitchen, bedroom. On the second floor there is a bedroom, living room for up to 8 people with a beautiful view of the lake, a balcony, sofas, tables, WiFi,TV. We invite You to use a real bathhouse, to take a swim in the lake, to relax by taking a trip on a boat, SUP, to go fishing, to use a grill and a place for campfire, to take a walk close to nature. Rent of the house for a night for 2persons - 60 EUR, for each additional person plus 15 EUR. Rent of the house for a week: for 2 persons - 350 EUR, for 4 persons - 400 EUR, for 6 persons - 450 EUR, for 8 persons – 500 EUR"
+  "placeDescription": "Ezerkrasti are located on the shores of lake Alauksts with rich fish fauna, at the edge of woods, surrounded by calming presence of the wild nature, after little more than hour-long drive by car from Riga,. If you desire to spend your free time away from noise and haste of the city, at the calm and picturesque place, You ar welcome to our comfortable vacation home. On the ground floor there is a terrace, fireplace room, sauna, shower, WC, TV, WiFi, kitchen, bedroom. On the second floor there is a bedroom, living room for up to 8 people with a beautiful view of the lake, a balcony, sofas, tables, WiFi,TV. We invite You to use a real bathhouse, to take a swim in the lake, to relax by taking a trip on a boat, SUP, to go fishing, to use a grill and a place for campfire, to take a walk close to nature. Rent of the house for a night for 2persons - 60 EUR, for each additional person plus 15 EUR. Rent of the house for a week: for 2 persons - 350 EUR, for 4 persons - 400 EUR, for 6 persons - 450 EUR, for 8 persons – 500 EUR",
+
+  "picturesDescription": "Pictures of the place can be found on our instagram account <a href='https://www.instagram.com/p/CLzRqwXjC9_/' target='_blank'>www.instagram.com/ezerkrasti</a>."
 }
