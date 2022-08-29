@@ -14,26 +14,24 @@
 
   "header": "Vacation in Vecpiebalga, </br>on the shores of Lake Alauksts",
 
-  "weOffer": "We invite you:",
-  "offer1": "to use a real bathhouse",
-  "offer2": "to take a swim in the lake",
-  "offer3": "to relax by taking a trip on a boat",
-  "offer4": "to go fishing",
-  "offer5": "to use a grill and a place for campfire",
-  "offer6": "to take a walk close to nature",
+  "weOffer": "We invite you to:",
+  "offer1": "use a real bathhouse",
+  "offer2": "relax in an eight-seater hot tub under the stars on the shores of lake Alauksts",
+  "offer3": "take a swim in the lake",
+  "offer4": "relax by taking a trip on a boat, SUP",
+  "offer5": "use a grill and a place for campfire",
+  "offer6": "take a walk close to nature",
 
-  "nightlyPrices": "Rent of the house for a night:",
-  "priceNightly1": "for 2 persons - 60 EUR.",
-  "priceNightly2": "for 4 persons - 90 EUR.",
-  "priceNightly3": "for 6 persons - 120 EUR.",
-  "priceNightly4": "for 8 persons - 150 EUR.",
-  "weeklyPrices": "Rent of the house for a week:",
-  "priceWeekly1": "for 2 persons - 350 EUR.",
-  "priceWeekly2": "for 4 persons - 400 EUR.",
-  "priceWeekly3": "for 6 persons - 450 EUR.",
-  "priceWeekly4": "for 8 persons - 500 EUR.",
+  "nightlyPrices": "Rent of the house",
+  "priceNightly1": "one night for 2 persons - 100 EUR",
+  "priceNightly2": "two nights - 180 EUR",
+  "priceNightly3": "for each additional person plus 15 EUR per day.",
 
-  "placeDescription": "Ezerkrasti are located on the shores of lake Alauksts with rich fish sauna, at the edge of woods, surrounded by calming presence of the wild nature, after little more than hour-long drive by car from Riga,. If you desire to spend your free time away from noise and haste of the city, at the calm and picturesque place, You ar welcome to our comfortable vacation home. On the ground floor there is a terrace, fireplace room, sauna, shower, WC, TV, WiFi, kitchen, bedroom. On the second floor there is a bedroom, living room for up to 8 people with a beautiful view of the lake, a balcony, sofas, tables, WiFi,TV. We invite You to use a real bathhouse, to take a swim in the lake, to relax by taking a trip on a boat, SUP, to go fishing, to use a grill and a place for campfire, to take a walk close to nature. Rent of the house for a night for 2persons - 60 EUR, for each additional person plus 15 EUR. Rent of the house for a week: for 2 persons - 350 EUR, for 4 persons - 400 EUR, for 6 persons - 450 EUR, for 8 persons – 500 EUR",
+  "weeklyPrices": "Rent for a day:",
+  "priceWeekly1": "sauna - 15 EUR",
+  "priceWeekly2": "tub - 40 EUR",
+  "priceWeekly3": "boat or SUP - 10 EUR",
 
+  "placeDescription": "Ezerkrasti are located on the shores of lake Alauksts with rich fish sauna, at the edge of woods, surrounded by calming presence of the wild nature, after little more than hour-long drive by car from Riga,. If you desire to spend your free time away from noise and haste of the city, at the calm and picturesque place, You are welcome to our comfortable vacation home. On the ground floor there is a terrace, fireplace room, sauna, shower, WC, TV, WiFi, kitchen, bedroom. On the second floor there is a bedroom, living room for up to 8 people with a beautiful view of the lake, a balcony, sofas, tables, WiFi,TV.",
   "picturesDescription": "Pictures of the place can be found on our instagram account <a href='https://www.instagram.com/ezerkrasti/' target='_blank'>www.instagram.com/ezerkrasti</a>."
 }
