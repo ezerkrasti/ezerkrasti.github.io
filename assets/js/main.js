@@ -68,16 +68,20 @@
 
       $posts.each(function() {
 
-        var $this = $(this),
-          $image = $this.find('.image'), $img = $image.find('img'),
-          x;
+        var $this = $(this);
+        var $images = $this.find('.image');
 
-        // Set image.
-          $image.css('background-image', 'url(' + $img.attr('src') + ')');
+        $images.each(function() {
+          var $image = $(this), $img = $image.find('img'), x;
 
-        // Set position.
-          if (x = $img.data('position'))
-            $image.css('background-position', x);
+          // Set image.
+            $image.css('background-image', 'url(' + $img.attr('src') + ')');
+
+          // Set position.
+            if (x = $img.data('position'))
+              $image.css('background-position', x);
+
+        });
 
       });
 
